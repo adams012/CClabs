@@ -1,0 +1,44 @@
+div {
+    height:300px;
+    width:300px;
+    background-color:#DAF7A6;
+    border-radius:5px;
+    margin: center;
+}
+.cats {
+    height:300px;
+    width:300px;
+    background-color:#FFC300;  
+    border-radius:5px;
+    margin: center;
+}
+.dogs {
+    height:300px;
+    width:300px;
+    background-color:#FF5733;  
+    border-radius:5px;
+    margin: center;
+}
+.birds {
+    height:300px;
+    width: 300px;
+    background-color:#C70039;
+    border-radius:5px;
+    margin: center;
+}
+
+.frogs {
+    height:300px;
+    width:300px;
+    background-color:#900C3F;  
+    border-radius:5px;
+    margin: center;
+}
+
+.pony {
+    height:300px;
+    width:300px;
+    background-color:#581845;  
+    border-radius:5px;
+    margin: center;
+}
