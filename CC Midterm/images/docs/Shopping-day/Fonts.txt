@@ -1,0 +1,10 @@
+Fonts used in this design;
+
+Font: Museo Slab, 
+Author: Exljbris, 
+Url: http://www.fontsquirrel.com/fonts/museo-slab; 
+
+Font: Museo, 
+Author: Exljbris, 
+Url: http://www.fontsquirrel.com/fonts/museo; 
+

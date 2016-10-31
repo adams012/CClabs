@@ -1,0 +1,129 @@
+body{
+  background: #B7004E;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+font-family: 'Amatic SC', cursive;
+font-size: 90px;
+color: white;
+}
+
+p{
+  color: white;
+  font-size: 30px;
+  font-family: "Amatic SC";
+  margin: 2%;
+}
+
+.boxed{
+  border: 9px solid white ;
+  width: 400px;
+  padding: 1px;
+  position: relative;
+}
+
+.container{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1pt black;
+  text-align: center;
+  position: relative;
+}
+
+.left-container{
+  display: inline-block;
+  width: 20%; 
+  height: auto;
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.right-container{
+  display: inline-block;
+  width: 20%; 
+  height: auto;
+  margin-top: 20px;
+}
+
+.button{
+  font-family: 'Cinzel', serif;
+  color: white;
+  background-color: black;
+  display: inline-block;
+  margin-left: 80%; 
+  margin-bottom:10px;
+  width: 200px;
+  height: auto;
+}
+.myButton {
+  background:#000000;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:'Amatic Sc';
+  font-size:30px;
+  font-weight:bold;
+  padding:9px 18px;
+  text-decoration:none;
+}
+.myButton:hover {
+  background:#000000;
+
+}
+.gallery {
+  width: 20%; 
+  height: auto;
+}
+
+.contacts{
+  font-family: 'Cinzel', serif;
+  display: inline-block;
+  margin-left: 33%;
+  margin-top: 10px;
+  margin-bottom: 100px;
+
+
+}
+
+.name{
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  margin-left: 80%; 
+  margin-bottom:5px;
+  display: inline-block;
+  width: 200px;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
