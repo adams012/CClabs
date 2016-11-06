@@ -1,0 +1,71 @@
+div{
+  width:auto;
+  height: 100px;
+  background-color:green;
+  font-family: Arial;
+  font-size: 40px;
+  font-weight: 10%;
+
+
+}
+.rainbows{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 6s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@-webkit-keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+@keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+.mySlides{
+	width:300px;
+	height: auto;
+}
+
+.boxed{
+	border: 1px solid black;
+	height: 350px;
+	background-color: white;
+	position: relative;
+	padding: 10px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.grow img {
+  
+ 
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.grow img:hover {
+  width: 500px;
+  height: auto;
+}
+
+
+}
